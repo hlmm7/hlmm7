@@ -1,16 +1,27 @@
-## Hi there 👋
+# Héctor Mejías
 
-<!--
-**hlmm7/hlmm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SOC / Blue Team | IT Support con enfoque en seguridad
 
-Here are some ideas to get you started:
+Experiencia en:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Wazuh SIEM (detección y monitoreo de eventos)
+* Active Directory (GPO, IAM, hardening)
+* Análisis de logs y detección de anomalías
+* Redes: TCP/IP, VLANs, análisis de tráfico
+* Automatización con Bash y Python
+* Piscina 42 Madrid (aprendizaje intensivo en C, lógica y entorno Linux)
+
+## Proyectos destacados
+
+* SOC Lab con Wazuh + Active Directory (detección real de ataques)
+* Monitor de fuerza bruta SSH (script + análisis de logs)
+* Dashboard de incidentes de seguridad (Power BI)
+
+## Enfoque actual
+- Detección de amenazas en entornos reales
+- Análisis de logs y correlación de eventos
+- Mejora continua de laboratorios de seguridad (SOC)
+
+## Contacto
+
+* GitHub: https://github.com/hlmm7
