@@ -1,4 +1,4 @@
-# Héctor Mejías
+# Hector Mejias
 
 SOC / Blue Team | IT Support con enfoque en seguridad
 
